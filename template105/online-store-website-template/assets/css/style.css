@@ -57,6 +57,17 @@ header .navbar {
 .background-header .navbar-nav a.nav-link {
 	color: #1e1e1e!important;
 }
+.nav-bar .nav-button-home a { background:url("") no-repeat 0px -2px transparent; }
+
+.nav-bar .nav-button-Services a { background:url("") no-repeat 0px -2px transparent; }
+
+.nav-bar .nav-button-RateCard a { background:url("") no-repeat 0px -2px transparent; }
+
+.nav-bar .nav-button-Aboutus a { background:url("") no-repeat 0px -2px transparent; }
+
+.nav-bar .nav-button-Contactus a { background:url("") no-repeat 0px -2px transparent; }
+
+.nav-bar .nav-button-Login a { background:url("") no-repeat 0px -2px transparent; }
 .background-header .navbar-nav .nav-link:hover,
 .background-header .navbar-nav .active>.nav-link,
 .background-header .navbar-nav .nav-link.active,
